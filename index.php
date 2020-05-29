@@ -1,0 +1,3 @@
+<?php
+echo "Zbc";
+phpinfo();
